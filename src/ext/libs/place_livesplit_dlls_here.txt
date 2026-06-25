@@ -1,5 +1,0 @@
-You need the following DLLs in this folder:
-
-LiveSplit.Core.dll
-LiveSplit.Splits.dll
-UpdateManager.dll
